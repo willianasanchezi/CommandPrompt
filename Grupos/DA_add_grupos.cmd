@@ -6,4 +6,4 @@
 :: Consultar Grupos
 dsquery group -name EQUIPOS_OFICINA_DE_TECNOLOGIAS_DE_LA_INFORMACION
 :: Crear Grupos
-dsadd group "CN=EQUIPOS_OFICINA_DE_TECNOLOGIAS_DE_LA_INFORMACION,OU=Grupos,OU=Cuentas,DC=mintic,DC=gov,DC=co"
+dsadd group "CN=EQUIPOS_OFICINA_DE_TECNOLOGIAS_DE_LA_INFORMACION,OU=Grupos,OU=Cuentas,DC=AITSoporte,DC=com"
